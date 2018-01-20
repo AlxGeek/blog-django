@@ -2,6 +2,7 @@
 __pycache__
 girls
 girls2
+blog/migrations
 db.sqlite3
 .DS_Store
 .vscode
